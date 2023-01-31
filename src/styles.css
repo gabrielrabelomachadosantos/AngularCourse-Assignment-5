@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+p {
+    width: 100px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: white;
+    border-radius: 8px;
+    border-color: gray;
+}
